@@ -1,0 +1,1 @@
+# Python-a-Giri-Veri-Yap-lar-
