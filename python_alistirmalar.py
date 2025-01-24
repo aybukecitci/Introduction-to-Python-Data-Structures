@@ -169,7 +169,7 @@ print(dict)
 
 
 
-#baskası
+#Alternatif1
 
 l = [2, 13, 18, 93, 22]
 
@@ -190,7 +190,7 @@ print("evens number:", evens)
 
 
 
-#baskası3
+#Alternatif2
 l = [2, 13, 18, 93, 22]
 
 def cift_ve_tek_ayir(l):
