@@ -1,4 +1,3 @@
-# Python' a Giris: Veri Yapıları
 # Python Learning Exercises
 
 A comprehensive collection of Python exercises focusing on fundamental programming concepts and data structures.
