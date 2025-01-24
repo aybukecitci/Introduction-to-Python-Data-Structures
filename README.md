@@ -1,1 +1,1 @@
-# Python-a-Giri-Veri-Yap-lar-
+# Python' a Giris: Veri Yapıları
